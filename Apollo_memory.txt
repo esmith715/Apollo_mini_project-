@@ -1,0 +1,34 @@
+what is 1 + 1: 2
+what animal barks?: dogs
+what animal meow's: cats
+What is the capital of France?: Paris
+Who wrote “To Kill a Mockingbird”?: Harper Lee
+What is the largest planet in our solar system?: Jupiter
+Who painted the Mona Lisa?: Leonardo da Vinci
+What is the chemical symbol for water?: H2O
+Who is known as the “Father of Computers”?: Charles Babbage
+What is the hardest natural substance on Earth?: Diamond
+Who discovered penicillin?: Alexander Fleming
+What is the smallest prime number?: 2
+What is the speed of light in a vacuum?: 299,792,458 meters per second
+What is the smallest unit of life?: Cell
+Who developed the theory of relativity?: Albert Einstein
+What is the capital of Japan?: Tokyo
+What is the main ingredient in guacamole?: Avocado
+Who wrote “1984”?: George Orwell
+What is the powerhouse of the cell?: Mitochondria
+What is the longest river in the world?: Nile
+Who painted “Starry Night”?: Vincent van Gogh
+What is the square root of 64?: 8
+Who is the author of “Harry Potter” series?: J.K. Rowling
+What is the chemical symbol for gold?: Au
+Who was the first president of the United States?: George Washington
+What is the largest mammal in the world?: Blue Whale
+What is the freezing point of water in Celsius?: 0 degrees
+Who discovered gravity?: Isaac Newton
+What is the capital of Italy?: Rome
+What is the main gas found in the Earth’s atmosphere?: Nitrogen
+Who wrote “Pride and Prejudice”?: Jane Austen
+What is the largest continent?: Asia
+What is the boiling point of water in Celsius?: 100 degrees
+whats the derivitave of x squared: 2x
